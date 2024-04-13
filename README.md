@@ -1,4 +1,4 @@
-# Urban Garden Challenge
+# Urban Garden SheCodes Monthly Challenge
 [SheCodes Monthly Challenge](https://www.shecodes.io/contests/urban-garden-challenge)
 
 Project include:
